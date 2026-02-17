@@ -4,7 +4,7 @@
 
 - Each table has a primary key
 - No repeating groups or multi-valued attributes
-- Each column contains atomic values
+- Each column contains atomic values (The data in a table cell cannot be devided into separate parts)
 - No duplicate rows
 
 ## Second Normal Form (2NF)
